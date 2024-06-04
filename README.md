@@ -7,10 +7,10 @@ This terraform project was created to build the necessary infrastructure for the
 ### Cloning the Repository
 
 ```sh
-git clone [https://github.com/WallaceMartinz/TerraformRamenGO](https://github.com/WallaceMartinz/terraformRamenGO.git)
+git clone https://github.com/WallaceMartinz/terraformRamenGO.git
 ```
 
-####Deploying with Terraform
+#### Deploying with Terraform
 
 Configure your AWS credentials with aws configure and then execute:
 
